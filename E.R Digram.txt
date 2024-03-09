@@ -150,7 +150,7 @@ According to Guaranteed Access rule, Each unique piece of data(atomic value) sho
 - b. Table Name + Primary Key
 - c. Table Name + Primary Key+ Attribute
 - d. Table Name + Primary Key+ Attribute+Foreign Key
-**Answer:** b. Table Name + Primary Key
+**Answer:** b. Table Name + Primary Key+ Attribute
 
 **Question 20:**
 The Rectangles divided into two parts represents
